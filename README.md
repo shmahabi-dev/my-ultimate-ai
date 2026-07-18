@@ -4,4 +4,6 @@ edition so you can run this game an i use pygame-ce edition because installing t
 this creation is from gemeni or ai so you can see errors on it and it has a model that can run on any device and pygame you need to install pygame-ce edition ok
 and to install all of these first with homebrew if you have it installed type brew install python3 then press enter/return and install pygame-ce
 so type pip3 install pygame-ce then you can run the project and i know this is the shortest readme in github but what i do so i dont want to talk
-more than 7 lines because if anyone dont have a lot of time i type for him this 7 lines and see the project
+more than 8 lines because if anyone dont have a lot of time i type for him this 7 lines and see the project!
+if you dont have homebrew installed i will give you the command for linux and macos "/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+and bye
